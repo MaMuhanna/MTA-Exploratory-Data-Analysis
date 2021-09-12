@@ -23,10 +23,10 @@ will see it.
 
 # Insights
 
-▪ Found busy days for stations.
-▪ Comparison between the Top Stations and bottom stations. and found there is a very large deference. 
-▪ Have better understand that where is the busiest Control Units.
-▪ Have better understand that where is the busiest Units.
+▪ Found busy days for stations.<br>
+▪ Comparison between the Top Stations and bottom stations. and found there is a very large deference. <br>
+▪ Have better understand that where is the busiest Control Units.<br>
+▪ Have better understand that where is the busiest Units.<br>
 
 
 # Future work 
